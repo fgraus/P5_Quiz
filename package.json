@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./P5_Quiz/main.js"
+    "start": "node ./P5_Quiz/bin/www.js"
   },
   "author": "",
   "license": "ISC",
