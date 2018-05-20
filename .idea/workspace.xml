@@ -2,18 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39cd974b-a6ff-41b6-8c9f-fa86ed17f6d8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/P5_Quiz/quizzes.sqlite" afterPath="$PROJECT_DIR$/P5_Quiz/quizzes.sqlite" />
-      <change beforePath="$PROJECT_DIR$/P5_Quiz/routes/index.js" afterPath="$PROJECT_DIR$/P5_Quiz/routes/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie-parser/HISTORY.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie-parser/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie-parser/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie-parser/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/cookie-parser/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/package.json" afterPath="$PROJECT_DIR$/node_modules/express/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/lib/dialects/abstract/query-generator.js" afterPath="$PROJECT_DIR$/node_modules/sequelize/lib/dialects/abstract/query-generator.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/.eslintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/karma.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/node.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/src/browser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/src/debug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/src/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/node_modules/debug/src/node.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sequelize/package.json" afterPath="$PROJECT_DIR$/node_modules/sequelize/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sqlite3/package.json" afterPath="$PROJECT_DIR$/node_modules/sqlite3/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/AUTHORS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/CHANGELOG.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/Gruntfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/README.md" afterPath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/README.md" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/__root__/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/__root__/terraformer-wkt-parser.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/coverage.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/dist/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/dist/terraformer-wkt-parser.js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/sort-arrow-sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/coverage/sorter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/dist/terraformer-wkt-parser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/dist/terraformer-wkt-parser.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/feature_collection.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/linestring.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/linestring.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multi_linestring.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multi_linestring.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multi_polygon.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multi_polygon.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multi_polygon_with_hole.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multipoint.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multipoint.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/multipoint_alternate.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/point.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/point.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/polygon.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/polygon.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/polygon_with_dots.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/polygon_with_hole.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/examples/polygon_with_hole.wkt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/package.json" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/spec/wktSpec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/src/module-source.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/src/wkt.yy" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/terraformer-wkt-parser.d.ts" afterPath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/terraformer-wkt-parser.d.ts" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/terraformer-wkt-parser.js" afterPath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/terraformer-wkt-parser.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/terraformer-wkt-parser.min.js" afterPath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/terraformer-wkt-parser.min.js" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/test.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/test/convert-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/test/terraformer-parse-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/test/wkt-parse-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/tsconfig.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/typings.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/typings/globals/geojson/index.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/typings/globals/geojson/typings.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/terraformer-wkt-parser/typings/index.d.ts" afterPath="" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/quizzes.sqlite" afterPath="$PROJECT_DIR$/quizzes.sqlite" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +91,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/P5_Quiz/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -34,11 +102,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/P5_Quiz/models/model.js">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/P5_Quiz/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/P5_Quiz/models/model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -48,7 +136,7 @@
         <entry file="file://$PROJECT_DIR$/P5_Quiz/views/quizzes.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -97,7 +185,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -117,6 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,18 +231,10 @@
               <item name="P5_Quiz" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Ejercicio5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ejercicio5" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="P5_Quiz" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,35 +269,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526301259511</updated>
-      <workItem from="1526301260948" duration="2019000" />
+      <workItem from="1526301260948" duration="2611000" />
+      <workItem from="1526798411613" duration="805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2019000" />
+    <option name="totallyTimeSpent" value="3416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -230,15 +313,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/P5_Quiz/views/quizzes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P5_Quiz/main.js">
+    <entry file="file://$PROJECT_DIR$/P5_Quiz/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -246,15 +321,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/P5_Quiz/views/credits.ejs">
+    <entry file="file://$PROJECT_DIR$/P5_Quiz/models/model.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -270,10 +337,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/P5_Quiz/models/model.js">
+    <entry file="file://$PROJECT_DIR$/P5_Quiz/views/quizzes.html" />
+    <entry file="file://$PROJECT_DIR$/P5_Quiz/views/credits.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P5_Quiz/views/quizzes.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P5_Quiz/models/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -282,6 +373,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P5_Quiz/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
